@@ -18,6 +18,7 @@ module.exports = {
                 use: [
                     'style-loader', // 해석된 내용 html에 삽입
                     'css-loader', // js에서 css파일 해석
+                    'postcss-loader',
                     'sass-loader'
                 ]
             }
