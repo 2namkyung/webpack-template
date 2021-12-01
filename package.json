@@ -16,6 +16,11 @@
     "webpack-dev-server": "^4.0.0-rc.1"
   },
   "devDependencies": {
-    "html-webpack-plugin": "^5.5.0"
+    "copy-webpack-plugin": "^10.0.0",
+    "css-loader": "^6.5.1",
+    "html-webpack-plugin": "^5.5.0",
+    "sass": "^1.44.0",
+    "sass-loader": "^12.3.0",
+    "style-loader": "^3.3.1"
   }
 }
